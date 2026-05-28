@@ -1,0 +1,135 @@
+[ 
+    {
+        "id": 1,
+        "catégorie": "Formule 1",
+        "libellé": "Quel pilote détient le record du nombre de championnats du monde de Formule 1, à égalité avec Michael Schumacher ?",
+        "options": ["Ayrton Senna", "Lewis Hamilton","Sebastian Vettel", "Alain Prost"],
+    "bonne_réponse": "Lewis Hamilton"
+    },
+    {
+        "id": 2,
+        "catégorie": "Formule 1",
+        "libellé": "En Moto GP, quelle est la cylindrée de la catégorie reine depuis 2012 ?",
+        "options": ["800cc", "990cc", "1000cc", "1200cc"],
+        "bonne_réponse": "1000cc"
+    },
+    {
+        "id": 3,
+        "catégorie": "Formule 1",
+        "libellé": "Quelle écurie de Formule 1 a remporté le plus de championnats des constructeurs dans l'histoire ?",
+        "options": ["McLaren", "Williams", "Mercedes", "Ferrari"],
+        "bonne_réponse": "Ferrari"
+    },
+    {
+        "id": 4,
+        "catégorie": "Sports Collectifs (NBA)",
+        "libellé": "Quel joueur détient le record du plus grand nombre de points marqués lors d'un seul match NBA (100 points) ?",
+        "options": ["Kobe Bryant", "Michael Jordan", "Wilt Chamberlain", "LeBron James"],
+        "bonne_réponse": "Wilt Chamberlain"
+    },
+    {
+        "id": 5,
+        "catégorie": "NBA",
+        "libellé": "Quelle franchise partage le record du plus grand nombre de titres NBA remportés avec les Los Angeles Lakers ?",
+        "options": ["Chicago Bulls", "Boston Celtics", "Golden State Warriors", "San Antonio Spurs"],
+        "bonne_réponse": "Boston Celtics"
+    },
+    {
+        "id": 6,
+        "catégorie": "NBA",
+        "libellé": "Quel joueur a inspiré le logo actuel de la NBA ?",
+        "options": ["Jerry West", "Magic Johnson", "Larry Bird", "Bill Russell"],
+        "bonne_réponse": "Jerry West"
+    },
+    {
+        "id": 7,
+        "catégorie": "Manga",
+        "libellé": "Qui est l'auteur du manga le plus vendu au monde, 'One Piece' ?",
+        "options": ["Masashi Kishimoto", "Akira Toriyama", "Eiichiro Oda", "Tite Kubo"],
+        "bonne_réponse": "Eiichiro Oda"
+    },
+    {
+        "id": 8,
+        "catégorie": "Culture Japonaise (Manga)",
+        "libellé": "Dans l'univers de Naruto, comment s'appelle le village caché des feuilles ?",
+        "options": ["Suna", "Kiri", "Iwa", "Konoha"],
+        "bonne_réponse": "Konoha"
+    },
+    {
+        "id": 9,
+        "catégorie": "Anime",
+        "libellé": "Quel anime suit la quête des frères Edward et Alphonse Elric pour retrouver leurscorps originaux ?",
+        "options": ["Bleach", "Fullmetal Alchemist", "DeathNote", "Hunter x Hunter"],
+        "bonne_réponse": "Fullmetal Alchemist"
+    },
+    {
+        "id": 10,
+        "catégorie": "Anime",
+        "libellé": "Dans 'L'Attaque des Titans', comment s'appelle le mur le plus extérieur protégeant l'humanité ?",
+        "options": ["Mur Rose", "Mur Sina", "Mur Maria", "Mur Sheena"],
+        "bonne_réponse": "Mur Maria"
+    }, 
+    {
+        "id": 11,
+        "catégorie": "Formule 1",
+        "libellé": "Sur quel circuit se déroule le Grand Prix de Monaco ?",
+        "options": ["Circuit de Barcelone", "Circuit de Monte-Carlo", "Circuit de Silverstone", "Circuit de Spa"],
+        "bonne_reponse": "Circuit de Monte-Carlo"
+    },
+    {
+        "id": 12,
+        "catégorie": "MotoGP",
+        "libellé": "Quel pilote est surnommé 'The Doctor'en MotoGP ?",
+        "options": ["Marc Marquez", "Valentino Rossi","Jorge Lorenzo", "Casey Stoner"],
+        "bonne_reponse": "Valentino Rossi"
+    },
+    {
+        "id": 13,
+        "catégorie": "MotoGP",
+        "libellé": "Combien de titres mondiaux Valentino Rossi a-t-il remportés ?",
+        "options": ["5", "7", "9", "11"],
+        "bonne_reponse": "9"
+    },
+    {
+        "id": 14,
+        "catégorie": "NBA",
+        "libellé": "Quelle équipe a remporté le plus de titres NBA ?",
+        "options": ["Los Angeles Lakers", "Chicago Bulls", "Boston Celtics", "Golden State Warriors"],
+        "bonne_reponse": "Boston Celtics"
+    },
+    {
+        "id": 15,
+        "catégorie": "NBA",
+        "libellé": "Quel joueur est surnommé 'BlackMamba' ?",
+        "options": ["LeBron James", "Michael Jordan", "Kobe Bryant", "Shaquille O'Neal"],
+        "bonne_reponse": "Kobe Bryant"
+    },
+    {
+        "id": 16,
+        "catégorie": "Manga",
+        "libellé": "Quel est le vrai nom du personnage 'Light Yagami' dans Death Note ?",
+        "options": ["Light Yagami", "Kira", "L Lawliet","Near"],        
+        "bonne_reponse": "Light Yagami"
+    },
+    {
+        "id": 17,
+        "catégorie": "Manga",
+        "libellé": "Dans quel manga apparaît le personnage 'Naruto Uzumaki' ?",
+        "options": ["One Piece", "Bleach", "Naruto", "Dragon Ball"],
+        "bonne_reponse": "Naruto"
+    },
+    {
+        "id": 18,
+        "catégorie": "Anime",
+        "libellé": "Quel studio a produit 'Spirited Away' ?",
+        "options": ["Toei Animation", "Studio Ghibli", "Madhouse", "Bones"],
+        "bonne_reponse": "Studio Ghibli"
+    },
+    {
+        "id": 19,
+        "catégorie": "Formule 1",
+        "libellé": "Quelle écurie a dominé la saison F12023 ?",
+        "options": ["Ferrari", "Mercedes", "Red Bull","McLaren"],
+        "bonne_reponse": "Red Bull"
+    }
+ ]
