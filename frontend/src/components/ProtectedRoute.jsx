@@ -9,4 +9,4 @@ const { pseudo } = useContext(UserContext);
     }
 // Si le pseudo existe, on autorise l'accès aux routes enfants
     return <Outlet />;
-}
+} 
